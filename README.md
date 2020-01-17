@@ -9,3 +9,4 @@ Collection of code experiments in Julia. I'm doing this in Jupyter notebooks run
 * `Bifurcations.ipynb` - plotting logistic map bifurcation diagram using Julia Plots with GR backend.
 * `SimpleDiffEqn.ipynb` - an implementation of differential equation solvers using forward and backward Euler method, as well as Runge-Kutta. Julia features: functions as function parameters, implicit typing, plotting using Julia Plots with GR backend; LaTeX in Jupyter markdown
 * `Coordinate-Delayed Embedding.ipynb` - a simple implementation of delay-coordinate embedding for time series analysis.
+* `IMO1988 A3.ipynb` - a simple calculation solving an IMO 1988 problem A3. Has a parallel/distributed code.
